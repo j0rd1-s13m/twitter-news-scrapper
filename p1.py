@@ -93,12 +93,12 @@ created_Dataframe.to_csv('%s_tweets.csv' % userID,index=False,sep=';')
 
 #Postprocessat
 #Demanarem a l'usuari que ens indiqui entre quines dates vol revisar els tweets
-start_Date = "2021-04-01"
-#start_Date = input("Siusplau introdueix una data inicial (format AAAA-MM-DD):\n")
+#start_Date = "2021-04-01"
+start_Date = input("Siusplau introdueix una data inicial (format AAAA-MM-DD):\n")
 #Imprimirem per pantalla la data inicial
 print(f'You entered {start_Date}')
-end_Date = "2021-04-07"
-#end_Date = input("Siusplau introdueix una data final (format AAAA-MM-DD):\n")
+#end_Date = "2021-04-07"
+end_Date = input("Siusplau introdueix una data final (format AAAA-MM-DD):\n")
 #Imprimirem per pantalla la data final
 print(f'You entered {end_Date}')
 

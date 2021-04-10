@@ -7,3 +7,7 @@ Aquest repositori s'ha creat com una part d'un exercici de l'assignatura Tipolog
 ## Membres de l'equip
 Tota la pràctica ha estat realitzada de manera individual per Jordi Auladell Rosell.
 
+## DOI
+
+Al següent link podem veure el dataset
+http://doi.org/10.5281/zenodo.4678511
